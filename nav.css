@@ -1,0 +1,44 @@
+html, body{
+	text-align: center;
+}
+h1{
+	margin: 0px;
+	padding: 0px;
+}
+.main_nav > input[type=button] {
+	background-color: gold;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 72px;
+}
+.main {
+	padding-top: 50px;
+}
+.body {
+	height: auto;
+	padding-bottom: 50px;
+	margin: 15px 770px;
+	border: 2px;
+	border-radius: 18px;
+	border-color: #000;
+	border-style: solid;
+}
+.title {
+	background-color: gold;
+	padding: 15px 0px;
+	margin-top: 0px;
+	font-size: 90px;
+	border-radius: 15px;
+}
+.dark {
+	background-color: orange;
+}
+.title > button {
+	font-size: 80px;
+	margin-right: 20px;
+	float: right;
+	border-radius: 15px;
+}
